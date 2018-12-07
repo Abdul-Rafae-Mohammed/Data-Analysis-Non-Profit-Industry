@@ -41,7 +41,7 @@ What things you need to install the software and how to install them
 3. Create a bucket, user and auth_token 
 4. Once the tables and data are created, you can use an already-configured SQL Notebook by importing HealthTest.json
 
-## Authors
+## Author
 
 **Phani Turlapati (phani.turlapati@oracle.com)**
 
