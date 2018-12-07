@@ -18,7 +18,7 @@ What things you need to install the software and how to install them
 ### Package Contents
 
 * Import-export
-  * Datasets have been included in the package. You can upload them to Object Storage and import the table or Import data to Table through SQL Developer(recommend).
+  * Datasets are not included in the package but url for downloading is provided. You can upload them to Object Storage and import the table or Import data to Table through SQL Developer(recommend).
 * Notebook
   * Brazilian Ecommerce EDA.json - SQL notebook
 * Source
@@ -26,6 +26,7 @@ What things you need to install the software and how to install them
 
 ### Instructions
 
+* Download datasets from url
 * Load data into ADWC 
 * Import SQL notebook (.json file) to Oracle Machine Learning
 * Run notebook 
