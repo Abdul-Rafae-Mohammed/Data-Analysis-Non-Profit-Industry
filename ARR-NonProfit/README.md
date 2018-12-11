@@ -1,6 +1,6 @@
 # Non Profit Industry Use Case
 
-ADW data import package for demoing automotive use case
+ADW data import package for demoing non-profit use case
 
 ## Introduction
 

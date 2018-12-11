@@ -32,6 +32,47 @@ What things you need to install the software and how to install them
 3. If you don't want to use Object Storage, the package might contain a raw import that will completely create tables and insert data
 4. Once the tables and data are created, you can use an already-configured SQL Notebook by importing the notebook json file.
 
+
+## Current Use Cases:
+
+
+### Digital Marketing
+
+* Compare several marketing campaigns and their effectiveness
+
+### Automotive
+
+* Analyze the relationship between Tesla and current oil prices
+
+### Non-Profit
+
+* Insights on American Red Cross data
+
+### E-Commerce
+
+* Identifying profit forecasts for Brazilian e-commerce companies
+
+### Education
+
+* Finding insights on the literacy and education levels of youth living in Kartanaka, India
+
+### Fraud Detection
+
+* Using models to detect fraud detection within financial data
+
+### Health Care
+
+* Insights on prescriber data
+
+### Entertainment
+
+* Understanding the reasoning behind movie ratings and discovering viewer preferences
+
+### FEMA Emergency Assistance Claims
+
+* Discover which areas were most affected by Hurricane Harvey
+
+
 ## Questions?
 
-**Contact Christian Yarros**
+**Contact Christian Yarros (christian.yarros@oracle.com)**
