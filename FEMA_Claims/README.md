@@ -28,6 +28,7 @@ What things you need to install the software and how to install them
 
 1. Everything that is needed to start exists in the SQL notebook. Only thing that might need to be modified is the current object storage bucket.
 2. Current Object Storage bucket is ADWC_DEMO in the Demo compartment. If you change the bucket to something new, you will need to change the scripts to accommodate for new bucket name. 
+3. Import the FEMA_Analysis.json file into your SQL Notebook and you're good to go!
 
 ## Authors
 
